@@ -1,0 +1,11 @@
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\bin\Debug\net5.0\BussinessLogic.deps.json
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\bin\Debug\net5.0\BussinessLogic.dll
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\bin\Debug\net5.0\ref\BussinessLogic.dll
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\bin\Debug\net5.0\BussinessLogic.pdb
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\obj\Debug\net5.0\BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\obj\Debug\net5.0\BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\obj\Debug\net5.0\BussinessLogic.AssemblyInfo.cs
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\obj\Debug\net5.0\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\obj\Debug\net5.0\BussinessLogic.dll
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\obj\Debug\net5.0\ref\BussinessLogic.dll
+C:\Users\lsmor\source\repos\SmartMedication\BussinessLogic\obj\Debug\net5.0\BussinessLogic.pdb

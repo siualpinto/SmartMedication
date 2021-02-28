@@ -1,0 +1,15 @@
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\bin\Debug\net5.0\BussinessLogic.Entities.dll
+C:\Users\lsmor\source\repos\SmartMedication\DataAccess\bin\Debug\net5.0\BussinessLogic.Entities.pdb

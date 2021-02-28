@@ -1,0 +1,17 @@
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\bin\Debug\net5.0\BussinessLogic.deps.json
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\bin\Debug\net5.0\BussinessLogic.dll
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\bin\Debug\net5.0\ref\BussinessLogic.dll
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\bin\Debug\net5.0\BussinessLogic.pdb
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\bin\Debug\net5.0\BussinessLogic.Entities.dll
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\bin\Debug\net5.0\DataAccess.dll
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\bin\Debug\net5.0\BussinessLogic.Entities.pdb
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\BussinessLogic.AssemblyInfo.cs
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\BussinessLogic.csproj.CopyComplete
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\BussinessLogic.dll
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\ref\BussinessLogic.dll
+C:\Users\lsmor\source\repos\SmartMedication\BL\BussinessLogic\obj\Debug\net5.0\BussinessLogic.pdb
