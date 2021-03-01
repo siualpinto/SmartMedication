@@ -11,8 +11,6 @@ namespace SmartMedication.Installers
     {
         public static IServiceCollection AddDatabaseConfig(this IServiceCollection services, IConfiguration config)
         {
-            //services.AddDbContext<SmartMedicationDbContext>(options =>
-            //    options.UseSqlServer(config.GetConnectionString("DefaultConnection")));
             services.AddDbContextFactory<SmartMedicationDbContext>(options =>
                 options.UseSqlServer(config.GetConnectionString("DefaultConnection")));
             return services;
